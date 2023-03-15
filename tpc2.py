@@ -40,6 +40,7 @@ while x:
 		else:
 			print ("Retifique o Curso")
 			x=False
+			# rtf 06
 		
 	
 
